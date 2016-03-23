@@ -1,0 +1,22 @@
+{
+  "name": "day-02",
+  "version": "1.0.0",
+  "description": "Day 2 ReactJS training at BT",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ReactJS",
+    "React",
+    "training"
+  ],
+  "author": "AndrewD",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
